@@ -2,7 +2,7 @@
   "name": "bh1750",
   "description": "light sensor bh1750 with raspberry pi",
   "author": "Miroslav Rúčka, Jos Hendriks",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "bh1750",
   "scripts": {
     "test": "node example"
@@ -12,7 +12,7 @@
     "url": "https://github.com/circuitdb/bh1750"
   },
   "dependencies": {
-    "i2c": "^0.2.3",
+    "raspi-i2c": "^6.1.0",
     "lodash": "^4.17.5"
   },
   "keywords": [
