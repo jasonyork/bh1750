@@ -12,6 +12,7 @@
     "url": "https://github.com/circuitdb/bh1750"
   },
   "dependencies": {
+    "raspi": "^5.0.2",
     "raspi-i2c": "^6.1.0",
     "lodash": "^4.17.5"
   },
